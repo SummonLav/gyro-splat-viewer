@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Gaussian Viewer",
+  title: "Gyro Splat Viewer",
   description: "3D Gaussian Splat Viewer",
 };
 

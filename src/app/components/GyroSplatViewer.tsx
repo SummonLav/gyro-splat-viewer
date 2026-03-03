@@ -11,7 +11,7 @@ interface Props {
   format: "ply" | "splat" | "ksplat";
 }
 
-export default function GaussianViewer({ src, format }: Props) {
+export default function GyroSplatViewer({ src, format }: Props) {
   const containerRef = useRef<HTMLDivElement>(null);
   const frameRef = useRef<number>(0);
 

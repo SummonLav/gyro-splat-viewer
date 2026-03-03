@@ -1,5 +1,5 @@
 {
-  "name": "gaussian-viewer",
+  "name": "gyro-splat-viewer",
   "version": "0.1.0",
   "private": true,
   "scripts": {
